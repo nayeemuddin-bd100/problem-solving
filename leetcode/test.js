@@ -1,6 +1,3 @@
-let obj  ={
-    a: 1,
-    b : 2
-}
-
-console.log(obj[a]);
+let arr = []
+arr.push(1,2)
+console.log(arr);
