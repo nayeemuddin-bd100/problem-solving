@@ -1,3 +1,2 @@
-let arr = []
-arr.push(1,2)
-console.log(arr);
+
+console.log(8^(1/2));
